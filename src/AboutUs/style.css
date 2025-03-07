@@ -1,0 +1,318 @@
+.about-us {
+  background-color: #f0f6f3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-us .div {
+  background-color: #f0f6f3;
+  height: 2391px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.about-us .overlap {
+  height: 1076px;
+  left: -720px;
+  position: absolute;
+  top: 516px;
+  width: 2030px;
+}
+
+.about-us .footer {
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 459px;
+  width: 1440px;
+}
+
+.about-us .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 41px;
+  left: 850px;
+  position: absolute;
+  top: 372px;
+}
+
+.about-us .image {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.about-us .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 680px;
+}
+
+.about-us .auto-layout-vertical {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 24px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.about-us .img-wrapper {
+  align-items: center;
+  background-color: #83ad97;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 2px;
+  position: relative;
+}
+
+.about-us .img {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.about-us .text-wrapper {
+  color: var(--gray-900);
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-us .p {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.about-us .frame-3 {
+  height: 459px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about-us .image-2 {
+  height: 26px;
+  left: -588px;
+  position: absolute;
+  top: -1026px;
+  width: 105px;
+}
+
+.about-us .header {
+  align-items: center;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d8d8d8;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  height: 85px;
+  justify-content: space-between;
+  left: -1px;
+  padding: 0px 130px;
+  position: absolute;
+  top: -1px;
+  width: 1442px;
+}
+
+.about-us .logo {
+  height: 67px;
+  position: relative;
+  width: 203px;
+}
+
+.about-us .shield {
+  height: 54px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 54px;
+}
+
+.about-us .overlap-group {
+  background-image: url(./icon-stroke.svg);
+  background-size: 100% 100%;
+  height: 49px;
+  left: 7px;
+  position: relative;
+  top: 3px;
+  width: 40px;
+}
+
+.about-us .subtract {
+  height: 28px;
+  left: 11px;
+  position: absolute;
+  top: 9px;
+  width: 18px;
+}
+
+.about-us .INTERO {
+  height: 19px;
+  left: 66px;
+  position: absolute;
+  top: 26px;
+  width: 98px;
+}
+
+.about-us .vector {
+  height: 19px;
+  left: 78px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.about-us .vector-2 {
+  height: 19px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.about-us .vector-3 {
+  height: 19px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.about-us .vector-4 {
+  height: 19px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.about-us .vector-5 {
+  height: 19px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.about-us .vector-6 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.about-us .auto-layout {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.about-us .tab {
+  color: var(--gray-290);
+  font-family: var(--body-text-inter-14-medium-font-family);
+  font-size: var(--body-text-inter-14-medium-font-size);
+  font-style: var(--body-text-inter-14-medium-font-style);
+  font-weight: var(--body-text-inter-14-medium-font-weight);
+  letter-spacing: var(--body-text-inter-14-medium-letter-spacing);
+  line-height: var(--body-text-inter-14-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-us .tab-2 {
+  color: var(--gray-290);
+  font-family: var(--body-text-inter-14-medium-font-family);
+  font-size: var(--body-text-inter-14-medium-font-size);
+  font-style: var(--body-text-inter-14-medium-font-style);
+  font-weight: var(--body-text-inter-14-medium-font-weight);
+  letter-spacing: var(--body-text-inter-14-medium-letter-spacing);
+  line-height: var(--body-text-inter-14-medium-line-height);
+  margin-left: -33.50px;
+  margin-right: -33.50px;
+  margin-top: -1.00px;
+  opacity: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-us .div-wrapper {
+  align-items: center;
+  background-color: var(--gray-210);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.about-us .text-wrapper-2 {
+  color: var(--gray-280);
+  font-family: var(--body-text-inter-14-regular-font-family);
+  font-size: var(--body-text-inter-14-regular-font-size);
+  font-style: var(--body-text-inter-14-regular-font-style);
+  font-weight: var(--body-text-inter-14-regular-font-weight);
+  letter-spacing: var(--body-text-inter-14-regular-letter-spacing);
+  line-height: var(--body-text-inter-14-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-us .text-wrapper-3 {
+  color: var(--gray-800);
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.about-us .auto-layout-2 {
+  height: 564px;
+  left: -590px;
+  position: absolute;
+  top: -952px;
+  width: 1180px;
+}
