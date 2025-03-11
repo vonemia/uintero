@@ -7,21 +7,34 @@
 }
 
 .container {
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
   position: relative;
 }
 
 .hero {
   position: relative;
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 130px;
+  padding: 0 20px;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
   height: 83px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .logo {
@@ -44,6 +57,7 @@
   justify-content: center;
   align-items: center;
   padding: 50px 0;
+  width: 100%;
 }
 
 .news-section {
@@ -60,6 +74,7 @@
   background-color: #07ad55;
   color: white;
   cursor: pointer;
+  border: none;
 }
 
 .footer {
@@ -67,4 +82,5 @@
   color: white;
   text-align: center;
   padding: 20px 0;
+  width: 100%;
 }

@@ -28,32 +28,12 @@ const Main = () => {
       <section className="container">
         <div className="hero">
           <img className="group" alt="Group" src={group3} />
-          <img
-            className="auto-layout-vertical"
-            alt="Auto layout vertical"
-            src={autoLayoutVertical2}
-          />
+          <img className="auto-layout-vertical" alt="Auto layout vertical" src={autoLayoutVertical2} />
           <img className="title" alt="Title" src={title} />
-          <img
-            className="auto-layout"
-            alt="Auto layout"
-            src={autoLayoutHorizontal}
-          />
-          <img
-            className="img"
-            alt="Auto layout vertical"
-            src={autoLayoutVertical3}
-          />
-          <img
-            className="auto-layout-vertical-2"
-            alt="Auto layout vertical"
-            src={autoLayoutVertical}
-          />
-          <img
-            className="auto-layout-vertical-3"
-            alt="Auto layout vertical"
-            src={autoLayoutVertical4}
-          />
+          <img className="auto-layout" alt="Auto layout" src={autoLayoutHorizontal} />
+          <img className="img" alt="Auto layout vertical" src={autoLayoutVertical3} />
+          <img className="auto-layout-vertical-2" alt="Auto layout vertical" src={autoLayoutVertical} />
+          <img className="auto-layout-vertical-3" alt="Auto layout vertical" src={autoLayoutVertical4} />
           <img className="img-2" alt="Img" src={image3} />
         </div>
 
@@ -104,11 +84,7 @@ const Main = () => {
           <img className="news" alt="News" src={news} />
           <button className="button">
             <span className="button-primary">Все новости</span>
-            <img
-              className="phosphor-icons"
-              alt="Phosphor icons"
-              src={xdefault}
-            />
+            <img className="phosphor-icons" alt="Phosphor icons" src={xdefault} />
           </button>
         </section>
 
