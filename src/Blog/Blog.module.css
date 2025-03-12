@@ -170,7 +170,6 @@
 }
 .property1DefaultLineoff {
   white-space: nowrap;
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   margin-top: auto;
@@ -183,7 +182,6 @@
   }
 }
 .property1DefaultLineoff2 {
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   margin-top: auto;
@@ -192,7 +190,6 @@
 }
 .property1DefaultLineoff3 {
   white-space: nowrap;
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   margin-top: auto;
@@ -207,7 +204,6 @@
 }
 .property1DefaultLineon {
   white-space: nowrap;
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   margin-top: auto;
@@ -225,7 +221,6 @@
   text-underline-position: from-font;
   color: #3f3f3f;
   white-space: nowrap;
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   gap: 4px;
@@ -243,7 +238,6 @@
 .autoLayoutHorizontal3 {
   color: #616161;
   white-space: nowrap;
-  backgroundcolor: #fff;
   background-color: #fff;
   align-self: stretch;
   gap: 4px;
